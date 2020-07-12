@@ -13,4 +13,4 @@ def response(alunos):
             'cod_aluno': a.id
         }
         response.append(aluno)
-    return jsonify(response)
+    return response
