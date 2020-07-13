@@ -8,7 +8,7 @@ pip3
 `pip install requeriments.txt`
 
 ## rodar app
-`python studentsmanager.py`
+`python -m students.app`
 
 ## criar base de dados
 > abrir o shell do Python
